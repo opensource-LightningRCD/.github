@@ -25,3 +25,8 @@
 > If you post your songs here, almost all the songs will be Creative-Common music.
 > If you choose opensource licenses by yourself, we still serve you services.
 > Here's a problem? Turn to Wiki documents!
+
+
+#### 🗃️Any Other Problem?
+> Check out our wiki!
+> [Lightning Records GitHub Wiki](https://github.com/opensource-LightningRCD/opensource-LightningRCD/wiki)
